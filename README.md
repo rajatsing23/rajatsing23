@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Rajat Singh
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
 - 📫 Contact: 8979194067
-- Email:singhrajat634@gmail.com
+- E-mail:singhrajat634@gmail.com
+- LinkedIn:
+https://www.linkedin.com/in/rajat-singh-774a7a24b
+
 
 
 <!---
