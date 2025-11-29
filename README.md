@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajat Singh
-- 👀 I’m interested in Java 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Python
 - 📫 Contact: 8979194067
 - E-mail:singhrajat634@gmail.com
 - LinkedIn:
